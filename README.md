@@ -1,6 +1,6 @@
 # gitLab 
 
-### Includes
+## Includes
 * index page
 * README file
 
